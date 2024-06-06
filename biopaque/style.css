@@ -1,0 +1,28 @@
+.titulo{
+    background-color: orange;
+    text-align: center;
+}
+.bio{
+        height: 200px;
+        overflow-y: scroll;
+        overflow: center;
+        width: 800px;
+        text-align: center;
+        margin: 0 auto;
+}
+.imgs{
+    margin: 0 auto;
+    text-align: center;
+    width: 800px;
+    display: flex;
+    overflow-x: scroll;
+    margin: 0 auto 20px auto;
+    img{
+        width: 315px;
+        margin: 10px;
+    }
+}
+.final{
+    background-color: orange;
+    text-align: center;
+}
